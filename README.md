@@ -1,1 +1,2 @@
 # USTC_2024Spring_Syllabus_of_Digital_Logic_Lab
+中国科学技术大学《模拟与数字电路》课程实验 
